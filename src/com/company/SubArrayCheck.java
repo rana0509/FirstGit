@@ -3,7 +3,7 @@ import java.util.*;
 
 public class SubArrayCheck {
     static boolean check(int[]arr,int n){
-        int total_sum=00;
+        int total_sum=0000;
         for(int i=0;i<n;i++){
           total_sum+=arr[i];
         }
